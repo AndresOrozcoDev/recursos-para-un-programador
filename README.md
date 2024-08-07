@@ -24,7 +24,7 @@
 ### CSS
 - :apple: []()
 
-## Colores
+### Colores
 - :clipboard: []()
 
 
