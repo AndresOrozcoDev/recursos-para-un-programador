@@ -9,6 +9,8 @@
 
 ### Iconos
 - :grinning: [Yesicon App](https://yesicon.app/)
+- :grinning: [Google Icons](https://fonts.google.com/icons)
+- :grinning: [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 ### Imagenes
 - :framed_picture: []()
@@ -23,7 +25,9 @@
 
 ### Diseño
 - :paintbrush: [The Stockes](https://thestocks.im/)
-- :paintbrush: [vO By Vercel](https://v0.dev/)
+- :paintbrush: [v0 By Vercel](https://v0.dev/)
+- :paintbrush: [Collect UI](https://collectui.com/designs)
+- :paintbrush: [Dribbble](https://dribbble.com/shots/4417684-Daily-UI-Landing-Page)
 
 ### Curriculo
 - :clipboard: []()
@@ -31,6 +35,7 @@
 ### CSS
 - :apple: [Flexbox Froggy](https://flexboxfroggy.com/#es)
 - :apple: [CSS Dinner](https://flukeout.github.io/)
+- :apple: [Grid Garden](https://cssgridgarden.com/#es)
 - :apple: [CSS Speedrun](https://css-speedrun.netlify.app/)
 - :apple: [CSS Layout generator](https://layout.bradwoods.io/)
 - :apple: [Grid Layoutit](https://grid.layoutit.com/)
@@ -40,6 +45,8 @@
 
 ### Colores
 - :clipboard: [Coolors](https://coolors.co/)
+- :clipboard: [UI Colors](https://uicolors.app/create)
+- :clipboard: [My color space](https://mycolor.space/)
 
 ### Extensiones Chrome
 - :toolbox: [Wappalzer](https://www.wappalyzer.com/)
@@ -47,10 +54,14 @@
 - :toolbox: [Visbug](https://visbug.web.app/)
 
 ### Extensiones VSC
-- :keyboard: []()
+- :keyboard: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- :keyboard: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- :keyboard: [Live Share](https://code.visualstudio.com/learn/collaboration/live-share)
 
 ### Fuentes
+- :black_nib: [Google fonts](https://fonts.google.com/)
 - :black_nib: [Fontjoy](https://fontjoy.com/)
+- :black_nib: [Fontspace](https://www.fontspace.com/)
 
 ### Github repositorios
 - :computer: []()
@@ -62,3 +73,9 @@
 - :seedling: [gitignore.io](https://www.toptal.com/developers/gitignore)
 - :seedling: [LearnGitBranching](https://learngitbranching.js.org/?locale=es_AR)
 - :seedling: [Oh my git](https://ohmygit.org/)
+
+### Herramientas
+- :hammer: [Ray.so](https://www.ray.so/)
+
+### Aprendizaje
+ - :video_game: [Checkio](https://checkio.org/)
