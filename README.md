@@ -1,5 +1,7 @@
 # Recursos para un programador
 
+Este repositorio está dedicado a proporcionar una amplia variedad de recursos, herramientas y aprendizajes para desarrolladores de software.
+
 ### Copilot
 - :rocket: [Black box](https://www.blackbox.ai/)
 - :rocket: [You](https://you.com/)
