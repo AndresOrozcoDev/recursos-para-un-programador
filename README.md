@@ -82,6 +82,6 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 ### Aprendizaje
  - :video_game: [Checkio](https://checkio.org/)
 
-### Plus
+### Extras
 
 ![VS Code Shortcuts](./sources/VS-Code-Shortcuts.png)
