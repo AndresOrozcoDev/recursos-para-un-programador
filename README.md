@@ -84,4 +84,4 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 
 ### Extras
 
-![VS Code Shortcuts](./sources/VS-Code-Shortcuts.png)
+![VS Code Shortcuts](./sources/Shortcuts.png)
