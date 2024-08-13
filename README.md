@@ -8,6 +8,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 
 ### Libros
 - :page_facing_up: [Clean Code Javascript](https://github.com/andersontr15/clean-code-javascript-es)
+- :page_facing_up: [Clean Code Python](https://github.com/sryvcr/clean-code-python-es)
 
 ### Iconos
 - :grinning: [Yesicon App](https://yesicon.app/)
@@ -32,7 +33,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 - :paintbrush: [Dribbble](https://dribbble.com/shots/4417684-Daily-UI-Landing-Page)
 
 ### Curriculo
-- :clipboard: []()
+- :clipboard: [ResumeGo](https://www.resumego.net/resume-checker/)
 
 ### CSS
 - :apple: [Flexbox Froggy](https://flexboxfroggy.com/#es)
@@ -43,6 +44,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 - :apple: [Grid Layoutit](https://grid.layoutit.com/)
 - :apple: [Loading.io](https://loading.io/flexbox)
 - :apple: [Griddy.io](https://griddy.io/)
+- :apple: [CSS Grid Generator io](https://cssgridgenerator.io/)
 - :apple: [My CSS Builder](https://www.mycssbuilder.com/)
 
 ### Colores
@@ -66,7 +68,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 - :black_nib: [Fontspace](https://www.fontspace.com/)
 
 ### Github repositorios
-- :computer: []()
+- :computer: [miduDev](https://github.com/midudev)
 
 ### Youtube canales
 - :movie_camera: [OpenBootcamp](https://www.youtube.com/@OpenBootcamp/playlists)
@@ -81,6 +83,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 
 ### Aprendizaje
  - :video_game: [Checkio](https://checkio.org/)
+ - :video_game: [ZType](https://www.typing.com/es/student/game/ztype)
 
 ### Extras
 
