@@ -6,7 +6,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 
 ### Arquitecturas
 
-1. 
+1. Type based
 
 ```bash
 src/
@@ -14,13 +14,38 @@ src/
 |   |-- fonts/
 |   |-- images/
 |-- components/
-|   |-- header/
-|   |-- footer/
+|   |-- header.js
+|   |-- footer.js
+|   |-- button.js
 |-- pages/
-|   |-- home/
-|   |-- about/
+|   |-- home.js
+|   |-- about.js
 |-- utils/
-|   |-- services/
+|-- styles/
+|-- services/
+|   |-- api.js
+|   |-- auth.js
+|-- App.css
+|-- App.js
+```
+
+2. Feature based
+
+```bash
+src/
+|-- assets/
+|   |-- fonts/
+|   |-- images/
+|-- feature/
+|   |-- auth/
+|       |--components/
+|       |--pages/
+|       |--services/
+|   |-- dashboard/
+|       |--components/
+|       |--pages/
+|       |--services/
+|-- shared/
 |-- App.css
 |-- App.js
 ```
