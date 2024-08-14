@@ -6,6 +6,25 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 
 ### Arquitecturas
 
+1. 
+
+```bash
+src/
+|-- assets/
+|   |-- fonts/
+|   |-- images/
+|-- components/
+|   |-- header/
+|   |-- footer/
+|-- pages/
+|   |-- home/
+|   |-- about/
+|-- utils/
+|   |-- services/
+|-- App.css
+|-- App.js
+```
+
 ### Manejo de estilos
 Existen varias formas y librerias para aplicar estilos.
 
