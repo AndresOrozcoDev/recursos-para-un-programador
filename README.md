@@ -56,6 +56,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 - :toolbox: [Wappalzer](https://www.wappalyzer.com/)
 - :toolbox: [SEO Meta in 1 Click](https://seo-extension.com/)
 - :toolbox: [Visbug](https://visbug.web.app/)
+- :toolbox: [Simulador Movil](https://www.webmobilefirst.com/es/)
 
 ### Extensiones VSC
 - :keyboard: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -69,6 +70,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 
 ### Github repositorios
 - :computer: [miduDev](https://github.com/midudev)
+- :computer: [Frontend Joe](https://github.com/frontend-joe)
 
 ### Youtube canales
 - :movie_camera: [OpenBootcamp](https://www.youtube.com/@OpenBootcamp/playlists)
@@ -86,5 +88,4 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
  - :video_game: [ZType](https://www.typing.com/es/student/game/ztype)
 
 ### Extras
-
 ![VS Code Shortcuts](./sources/Shortcuts.png)

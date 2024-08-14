@@ -6,4 +6,11 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 
 ### Arquitecturas
 
-## Manejo de estilos
+### Manejo de estilos
+Existen varias formas y librerias para aplicar estilos.
+
+1. Estilos en linea:
+![Estilos en linea](./sources/estilos_en_linea.png)
+
+### Extensiones Chrome
+- :toolbox: [React Develoepr Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
