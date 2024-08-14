@@ -17,5 +17,9 @@ Existen varias formas y librerias para aplicar estilos.
 
 ![Estilos de hoja externa](./sources/estilos_hoja_externa.png)
 
+3. Styled-componenst:
+
+![Estilos styled-components](./sources/estilos_styled-components.png)
+
 ### Extensiones Chrome
 - :toolbox: [React Develoepr Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)

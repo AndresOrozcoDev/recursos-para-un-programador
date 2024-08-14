@@ -27,3 +27,22 @@ const Component = () => {
 };
 
 export default Component;
+
+// Styled-components
+import React from 'react';
+import styled from 'styled-components';
+
+const Button = styled.button'
+  background-color: blue;
+  color: white;
+  padding: 5px 15px;
+'
+
+const Component = () => {
+  
+  return (
+    <Button>Click me!</Button>
+  )
+};
+
+export default Component;
