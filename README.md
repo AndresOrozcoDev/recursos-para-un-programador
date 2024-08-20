@@ -9,6 +9,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 ### Libros
 - :page_facing_up: [Clean Code Javascript](https://github.com/andersontr15/clean-code-javascript-es)
 - :page_facing_up: [Clean Code Python](https://github.com/sryvcr/clean-code-python-es)
+- :page_facing_up: [Design Patterns](https://refactoring.guru/es)
 
 ### Iconos
 - :grinning: [Yesicon App](https://yesicon.app/)
@@ -71,6 +72,8 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 ### Github repositorios
 - :computer: [miduDev](https://github.com/midudev)
 - :computer: [Frontend Joe](https://github.com/frontend-joe)
+- :computer: [Bezkoder](https://github.com/bezkoder)
+- :computer: [mtdvio (every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know)
 
 ### Youtube canales
 - :movie_camera: [OpenBootcamp](https://www.youtube.com/@OpenBootcamp/playlists)
