@@ -79,6 +79,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 - :seedling: [gitignore.io](https://www.toptal.com/developers/gitignore)
 - :seedling: [LearnGitBranching](https://learngitbranching.js.org/?locale=es_AR)
 - :seedling: [Oh my git](https://ohmygit.org/)
+- :seedling: [gitignore.io](https://www.toptal.com/developers/gitignore/)
 
 ### Herramientas
 - :hammer: [Ray.so](https://www.ray.so/)
