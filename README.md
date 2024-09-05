@@ -10,6 +10,9 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 - :page_facing_up: [Clean Code Javascript](https://github.com/andersontr15/clean-code-javascript-es)
 - :page_facing_up: [Clean Code Python](https://github.com/sryvcr/clean-code-python-es)
 - :page_facing_up: [Design Patterns](https://refactoring.guru/es)
+- :page_facing_up: [Building Microservices](https://github.com/namhoangduc99/TargetOf2018/blob/master/Sam%20Newman-Building%20Microservices-O'Reilly%20Media%20(2015).pdf)
+- :page_facing_up: [Unit testing principles practices and patterns]()
+- :page_facing_up: [Domain Driven Design](https://github.com/gg-daddy/ebooks/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
 
 ### Iconos
 - :grinning: [Yesicon App](https://yesicon.app/)
