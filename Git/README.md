@@ -10,7 +10,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 [Git Workspace](./sources/git_workflow.jpg)
 
 ### Comandos basicos
-![Comandos Basicos de Git]()
+![Comandos Basicos de Git](./sources/git_commands.png)
 
 ### Prefijos para un commit
 ![Git Prefijos](./sources/git_prefijos.jpeg)
