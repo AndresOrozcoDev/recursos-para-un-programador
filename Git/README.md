@@ -2,6 +2,13 @@
 
 Este repositorio está dedicado a proporcionar una amplia variedad de recursos, herramientas y aprendizajes para Git.
 
+### Documentacion oficial y descarga
+[Git](https://git-scm.com/)
+
+
+### Espacio de trabajo
+[Git Workspace](./sources/git_workflow.jpg)
+
 ### Comandos basicos
 ![Comandos Basicos de Git]()
 
@@ -9,8 +16,8 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 ![Git Prefijos](./sources/git_prefijos.jpeg)
 
 ### Herramientas
-- :seedling: [gitignore.io](https://www.toptal.com/developers/gitignore)
+- :hammer: [gitignore.io](https://www.toptal.com/developers/gitignore)
 
-### Git
-- :seedling: [LearnGitBranching](https://learngitbranching.js.org/?locale=es_AR)
-- :seedling: [Oh my git](https://ohmygit.org/)
+### Juegos de aprendizaje
+- :video_game: [LearnGitBranching](https://learngitbranching.js.org/?locale=es_AR)
+- :video_game: [Oh my git](https://ohmygit.org/)
