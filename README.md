@@ -26,6 +26,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 - :pencil: [GPRM](https://gprm.itsvg.in/)
 - :pencil: [Readme so](https://readme.so/es)
 - :pencil: [Iconos](https://github.com/ikatyang/emoji-cheat-sheet)
+- :pencil: [Badges](https://github.com/inttter/md-badges)
 
 ### REGExp
 - :printer: [RegExr](https://regexr.com/)
